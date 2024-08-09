@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @YashParashar10
+- 👀 I’m interested in Power Platform Opportunities
+- 🌱 I’m currently learning Power Apps
+- 💞️ I’m looking to collaborate on Power apps / data analysis / Manual Testting 
+- 📫 How to reach me Via LinkedIn 
+- ⚡ Fun fact: Honesty is the best Policy. 
